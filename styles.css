@@ -29,11 +29,11 @@ body{
 }
 
 .imgPro img{
-    /* padding: 0px 0 5px 10px; */
     width: 450px;
     margin: 0 auto;
     display: block;
     padding: 50px 0;
+    padding-bottom: 5px;
 }
 
 hr {
@@ -62,7 +62,6 @@ p {
     width: 40px;
     height: 40px;
     display: list-item;
-    /* border-radius: 100px; */
     margin-right: 37px;
     cursor: pointer;
     box-sizing: unset;
